@@ -7,6 +7,6 @@ This repository contains the code for the methodology to remove noise from image
 We have created three modules for this project.
 * The main module, `main.py` contains the skeleton code of the entire project. Here, one can find how the project is assembled in its entirety and how the flow of control passes from one function of the project to another.
 * The utilities module, `utilities.py` contains a set of "helper functions" which indeed help in carrying out important, yet regulatory tasks for the project.
-* The hopfield module, `hopfield.py` contains the functions necessary for carrying out the Hopfield computations.
+* The hopfield module, `hopfield.py` contains the functions necessary for carrying out the Hopfield computations as member functions of the parent class Hopfield.
 
 to run `python3 main.py`
