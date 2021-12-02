@@ -6,8 +6,9 @@ This repository contains the code for the methodology to remove noise from image
 ## Running the Program
 1. Clone the repository into your machine.
 2. `cd` into the repository, `cd path/to/Denoising-Images-Hopfield-Networks`. Note: Replace `path/to` with the actual path in your machine.
-3. `pip install -r requirements.txt`
-4. `python3 main.py`
+3. *Optional*: Make a virtual environment and activate it:`python -m venv env` then, `source env/bin/activate`
+4. Install dependencies: `pip install -r requirements.txt`
+5. Run the main file: `python main.py`
 
 ## Modules
 We have created three modules for this project.
