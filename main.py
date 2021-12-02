@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import utilities
 from hopfield import Hopfield
-from hopfieldnetwork import HopfieldNetwork
 
 def hopfield_from_scratch(asyn = False):
     images = utilities.get_images()
